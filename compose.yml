@@ -1,0 +1,6 @@
+services:
+  pocket-id-backup:
+    image: docker.io/makos/pocket-id-backup
+    build:
+      context: .
+
